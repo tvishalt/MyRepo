@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9438" started-at="2016-08-24T05:50:31Z" finished-at="2016-08-24T05:50:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9438" started-at="2016-08-24T05:50:31Z" finished-at="2016-08-24T05:50:41Z">
+      <class name="com.testproject.SampleSauceTextInputTest">
+        <test-method status="PASS" signature="setupSuite()[pri:0, instance:com.testproject.SampleSauceTextInputTest@f7fe8e]" name="setupSuite" is-config="true" duration-ms="16" started-at="2016-08-24T11:20:31Z" finished-at="2016-08-24T11:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method status="PASS" signature="verifyEmailInputTest(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.testproject.SampleSauceTextInputTest@f7fe8e]" name="verifyEmailInputTest" duration-ms="7535" started-at="2016-08-24T11:20:31Z" data-provider="hardCodedBrowsers" finished-at="2016-08-24T11:20:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[internet explorer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 8.1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void com.testproject.SampleSauceTextInputTest.verifyEmailInputTest(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmailInputTest -->
+        <test-method status="PASS" signature="verifyCommentInputTest(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.testproject.SampleSauceTextInputTest@f7fe8e]" name="verifyCommentInputTest" duration-ms="8159" started-at="2016-08-24T11:20:31Z" data-provider="hardCodedBrowsers" finished-at="2016-08-24T11:20:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[internet explorer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 8.1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void com.testproject.SampleSauceTextInputTest.verifyCommentInputTest(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCommentInputTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testproject.SampleSauceTextInputTest@f7fe8e]" name="tearDown" is-config="true" duration-ms="1685" started-at="2016-08-24T11:20:39Z" finished-at="2016-08-24T11:20:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testproject.SampleSauceTextInputTest@f7fe8e]" name="tearDown" is-config="true" duration-ms="1233" started-at="2016-08-24T11:20:40Z" finished-at="2016-08-24T11:20:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testproject.SampleSauceTextInputTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

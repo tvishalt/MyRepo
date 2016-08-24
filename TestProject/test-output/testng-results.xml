@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9329" started-at="2016-08-24T05:15:16Z" finished-at="2016-08-24T05:15:25Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9329" started-at="2016-08-24T05:15:16Z" finished-at="2016-08-24T05:15:25Z">
+      <class name="com.testproject.SampleSauceTextInputTest">
+        <test-method status="PASS" signature="setupSuite()[pri:0, instance:com.testproject.SampleSauceTextInputTest@756e4d]" name="setupSuite" is-config="true" duration-ms="16" started-at="2016-08-24T10:45:16Z" finished-at="2016-08-24T10:45:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method status="PASS" signature="verifyCommentInputTest(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.testproject.SampleSauceTextInputTest@756e4d]" name="verifyCommentInputTest" duration-ms="8502" started-at="2016-08-24T10:45:16Z" data-provider="hardCodedBrowsers" finished-at="2016-08-24T10:45:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[internet explorer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 8.1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void com.testproject.SampleSauceTextInputTest.verifyCommentInputTest(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCommentInputTest -->
+        <test-method status="PASS" signature="verifyCommentInputTest(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.testproject.SampleSauceTextInputTest@756e4d]" name="verifyCommentInputTest" duration-ms="7035" started-at="2016-08-24T10:45:16Z" data-provider="hardCodedBrowsers" finished-at="2016-08-24T10:45:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[internet explorer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 8.1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void com.testproject.SampleSauceTextInputTest.verifyCommentInputTest(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCommentInputTest -->
+        <test-method status="PASS" signature="verifyEmailInputTest(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.testproject.SampleSauceTextInputTest@756e4d]" name="verifyEmailInputTest" duration-ms="6052" started-at="2016-08-24T10:45:16Z" data-provider="hardCodedBrowsers" finished-at="2016-08-24T10:45:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[internet explorer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 8.1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void com.testproject.SampleSauceTextInputTest.verifyEmailInputTest(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmailInputTest -->
+        <test-method status="PASS" signature="verifyEmailInputTest(java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.testproject.SampleSauceTextInputTest@756e4d]" name="verifyEmailInputTest" duration-ms="6973" started-at="2016-08-24T10:45:16Z" data-provider="hardCodedBrowsers" finished-at="2016-08-24T10:45:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[internet explorer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows 8.1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void com.testproject.SampleSauceTextInputTest.verifyEmailInputTest(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method) throws java.net.MalformedURLException,org.openqa.selenium.InvalidElementStateException,java.rmi.UnexpectedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmailInputTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testproject.SampleSauceTextInputTest@756e4d]" name="tearDown" is-config="true" duration-ms="2200" started-at="2016-08-24T10:45:22Z" finished-at="2016-08-24T10:45:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testproject.SampleSauceTextInputTest@756e4d]" name="tearDown" is-config="true" duration-ms="1373" started-at="2016-08-24T10:45:23Z" finished-at="2016-08-24T10:45:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testproject.SampleSauceTextInputTest@756e4d]" name="tearDown" is-config="true" duration-ms="1326" started-at="2016-08-24T10:45:23Z" finished-at="2016-08-24T10:45:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testproject.SampleSauceTextInputTest@756e4d]" name="tearDown" is-config="true" duration-ms="811" started-at="2016-08-24T10:45:24Z" finished-at="2016-08-24T10:45:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testproject.SampleSauceTextInputTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
